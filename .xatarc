@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Domitrius-s-workspace-r0npit.us-east-1.xata.sh/db/blog",
+  "codegen": {
+    "output": "lib/xata.codegen.ts"
+  }
+}

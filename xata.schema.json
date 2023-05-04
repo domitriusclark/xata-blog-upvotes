@@ -1,0 +1,30 @@
+{
+  "tables": [
+        {
+      "name": "Posts",
+      "columns": [
+        {
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "name": "tags",
+          "type": "multiple"
+        },
+        {
+          "name": "slug",
+          "type": "string"
+        },
+        {
+          "name": "text",
+          "type": "text"
+        },
+        {
+          "name": "createdAt",
+          "type": "datetime"
+        }
+      ]
+    }
+  ]
+
+}
